@@ -31,6 +31,6 @@ end
    counter = 0
   while counter <= array.length
 return array[counter].to_s
-  counter +=1
+  counter += 1
  end
  end
