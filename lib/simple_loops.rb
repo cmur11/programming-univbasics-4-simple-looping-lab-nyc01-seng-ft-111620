@@ -32,3 +32,4 @@ def return_string_array(array)
   while counter <= array.length
   return array.
 end
+end
