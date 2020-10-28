@@ -16,3 +16,4 @@ while counter <= integer
     puts string
     counter +=1
 end
+end
